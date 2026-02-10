@@ -1,5 +1,5 @@
 ## AMEX CPD upgrade 5.2.0 to 5.2.2
-## Author: Alex Kuan (alex.kuan@ibm.com)
+## Author:  Alex Kuan (alex.kuan@ibm.com)
 
 From:
 ```
